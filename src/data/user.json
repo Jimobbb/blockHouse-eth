@@ -1,0 +1,16 @@
+{
+    "user" : [
+        {
+            "username":"admin",
+            "password":"123456",
+            "mobile":"15636478308",
+            "email":"1768991760@qq.com",
+        },
+        {
+            "username":"admin",
+            "password":"123456",
+            "mobile":"15636478308",
+            "email":"1768991760@qq.com",
+        }
+    ]
+}

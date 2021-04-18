@@ -1,0 +1,31 @@
+{
+    "userList":[
+        {
+            "userID":"0",
+            "username":"admin",
+            "password":"123456",
+            "mobile":"15636478308",
+            "email":"1768991760@qq.com",
+            "avatar":"",
+            "publicKey":"0x12jdkjdsfdsjdfjdhkjdshkjfdshj"
+        },
+        {
+            "userID":"1",
+            "username":"Jimobbb",
+            "password":"123456",
+            "mobile":"15636478308",
+            "email":"1768991760@qq.com",
+            "avatar":"",
+            "publicKey":"0x12jdkjdsfdsjdfjdhkjdshkjfdshj"
+        },
+        {
+            "userID":"2",
+            "username":"Jimobbb111",
+            "password":"12345678",
+            "mobile":"15636478308",
+            "email":"1768991760@qq.com",
+            "avatar":"",
+            "publicKey":"0x12jdkjdsfdsjdfjdhkjdshkjfdshj"
+        }
+    ]
+}
